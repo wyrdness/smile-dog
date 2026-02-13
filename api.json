@@ -1,10 +1,8 @@
 {
-  "category": "INTERNET_FOLKLORE",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/smile-dog",
     "maintainers": [
       {
@@ -18,340 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "smile-dog",
     "name": "Smile Dog",
-    "aliases": [
-      {
-        "name": "Smile.jpg",
-        "meaning": "Original filename of the cursed image"
-      },
-      {
-        "name": "smile.jpeg",
-        "meaning": "Alternate filename variant"
-      },
-      {
-        "name": "Smiling Dog",
-        "meaning": "Descriptive variant"
-      }
-    ],
+    "aliases": [],
     "category": "INTERNET_FOLKLORE",
-    "subcategory": "Creepypasta",
+    "subcategory": "Cursed Media",
     "tags": [
-      "creepypasta",
-      "cursed-image",
-      "internet-legend",
-      "psychological-horror",
-      "viral-fiction",
-      "chain-letter",
-      "digital-horror",
-      "meme",
-      "fictional-creation"
+      "folklore",
+      "mythology"
     ],
-    "status": "documented_fiction",
-    "fictional_creation": true,
-    "origin_type": "creepypasta",
-    "creation_date": "2008",
+    "status": "documented",
     "description": {
-      "summary": "DOCUMENTED FICTION: Smile Dog is a creepypasta about a supposedly cursed image of a Siberian Husky with an unsettling human-like smile. Created around 2008 on 4chan, this fictional story became one of the early foundational creepypastas in internet horror culture.",
-      "full": "Smile Dog (Smile.jpg) is a fictional creepypasta that originated around 2008 on 4chan's /x/ (paranormal) board. The story describes a cursed image depicting a Siberian Husky with an unnaturally wide, human-like smile in a dark room, sometimes accompanied by a humanoid hand. According to the fictional narrative, viewing this image causes nightmares, psychological distress, and a compulsion to 'spread the word' by showing it to others. This is DOCUMENTED FICTION—a creative horror story that became an important part of early internet folklore and digital horror culture. There is no actual cursed image; Smile Dog represents a cultural phenomenon in online storytelling and meme evolution."
+      "summary": "According to the **fictional story**:",
+      "full": "According to the **fictional story**:"
     },
     "etymology": {
-      "origin": "The name 'Smile Dog' derives from the filename 'smile.jpg' in the original creepypasta story, referring to the disturbing smile on the dog's face in the fictional cursed image",
-      "meaning": "Named for the unnatural human-like smile displayed by the dog in the story",
-      "first_use": "2008 (approximate)"
-    },
-    "fiction_notes": {
-      "reality_status": "This is entirely fictional creative content. No paranormal phenomenon exists.",
-      "cultural_significance": "Important example of early creepypasta canon and internet horror storytelling",
-      "purpose": "Entertainment and artistic expression through digital horror narrative"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "INTERNET_FOLKLORE",
-      "type": "Creepypasta",
-      "subtype": "Cursed Media",
-      "variant": "Image-Based Horror"
+      "type": "Cursed Media",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "jeff-the-killer",
-        "name": "Jeff the Killer",
-        "relationship": "similar",
-        "description": "Contemporary creepypasta with similar image-based horror"
-      },
-      {
-        "id": "ben-drowned",
-        "name": "BEN Drowned",
-        "relationship": "similar",
-        "description": "Creepypasta involving cursed digital media"
-      },
-      {
-        "id": "slenderman",
-        "name": "Slender Man",
-        "relationship": "contemporary",
-        "description": "Created 2009, similar internet horror origins"
-      },
-      {
-        "id": "russian-sleep-experiment",
-        "name": "Russian Sleep Experiment",
-        "relationship": "similar",
-        "description": "Another foundational creepypasta from the same era"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
-    "fictional_elements": {
-      "narrative_structure": "First-person account investigating urban legend",
-      "horror_mechanisms": [
-        "Cursed object trope",
-        "Chain letter mechanics",
-        "Psychological horror",
-        "Memetic hazard concept",
-        "Body horror (disturbing imagery)"
-      ],
-      "described_image": {
-        "subject": "Siberian Husky",
-        "key_feature": "Unnaturally wide, human-like smile",
-        "setting": "Dark room with minimal lighting",
-        "additional_elements": "Sometimes described as showing a humanoid hand in frame",
-        "color_palette": "Dark, high contrast, unsettling",
-        "note": "No single canonical image; various images have been associated with the story"
-      },
-      "narrative_effects": [
-        {
-          "effect": "Nightmares",
-          "description": "Victims reportedly experience recurring nightmares after viewing",
-          "frequency": "central_to_story"
-        },
-        {
-          "effect": "Psychological distress",
-          "description": "General anxiety and paranoia in the narrative",
-          "frequency": "common"
-        },
-        {
-          "effect": "Compulsion to spread",
-          "description": "Chain letter element: must show image to others to be free",
-          "frequency": "central_to_story"
-        },
-        {
-          "effect": "Haunting visions",
-          "description": "Dog appears in dreams telling victims to 'spread the word'",
-          "frequency": "common"
-        }
-      ]
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "story_elements": {
-      "format": "First-person investigation/interview format",
-      "narrative_device": "Urban legend documentation",
-      "themes": [
-        "Viral horror",
-        "Loss of control",
-        "Memetic infection",
-        "Digital curse",
-        "Uncanny valley",
-        "Chain letter anxiety"
-      ]
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "FICTION: As a fictional story, Smile Dog exists only as an internet narrative distributed globally through forums, websites, and social media.",
-      "medium": "Digital/Internet",
-      "primary_platforms": [
-        "4chan /x/ board",
-        "Creepypasta.com",
-        "Reddit (r/nosleep, r/creepypasta)",
-        "YouTube (creepypasta readings)",
-        "DeviantArt",
-        "Tumblr"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "spread_pattern": {
-      "origin_point": "4chan /x/ (paranormal) board",
-      "year": "2008",
-      "mechanism": "Viral sharing, forum reposts, YouTube readings",
-      "peak_virality": "2010-2012",
-      "ongoing_presence": "Continues to circulate as classic creepypasta"
-    },
-    "cultural_reach": {
-      "languages": "Primarily English, translated to various languages",
-      "demographics": "Internet users, horror fans, particularly teenagers and young adults",
-      "global_presence": "Worldwide internet presence"
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Part of early creepypasta culture on 4chan and similar boards. Draws from chain letter traditions, cursed media tropes (e.g., The Ring/Ringu), and internet urban legends.",
-      "creation_context": "Emerged during the formative period of creepypasta as a genre (2007-2009), when users created fictional horror stories presented as true accounts",
-      "folklore_connections": "Connected to broader traditions of cursed objects, haunted media, and memetic horror"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "2008",
-        "event": "Original creepypasta posted",
-        "significance": "Story first appears on 4chan /x/, author anonymous or unknown",
-        "source": "4chan archives (approximate)"
-      },
-      {
-        "date": "2009-2010",
-        "event": "Viral spread",
-        "significance": "Story spreads to other forums and early creepypasta websites",
-        "source": "Internet archives"
-      },
-      {
-        "date": "2010-2012",
-        "event": "Peak popularity",
-        "significance": "Becomes one of the most well-known early creepypastas",
-        "source": "Creepypasta.com, Know Your Meme"
-      },
-      {
-        "date": "2012-present",
-        "event": "Legacy status",
-        "significance": "Recognized as foundational creepypasta; continues to be shared and referenced",
-        "source": "Various internet culture sources"
-      }
-    ],
-    "modern_era": "Smile Dog remains a recognizable part of internet horror culture and is frequently referenced in discussions of creepypasta history. It represents an important artifact of early digital horror storytelling."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Chain letter tradition adapted to internet age",
-        "Cursed object folklore in digital format",
-        "Urban legend documentation style"
-      ],
-      "narrative_structure": "Presented as interview/investigation of urban legend",
-      "beliefs": "FICTION: No actual beliefs—this is recognized as creative fiction by most audiences"
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Featured in creepypasta compilations",
-        "Referenced in internet horror fiction guides",
-        "Analyzed in digital folklore studies"
-      ],
-      "media": [
-        "Numerous YouTube readings and narrations",
-        "Fan art on DeviantArt, Tumblr",
-        "Video game Easter eggs and references",
-        "Internet culture documentaries"
-      ],
-      "impact": [
-        "Contributed to establishing creepypasta as a genre",
-        "Influenced later cursed media stories",
-        "Part of broader internet horror culture",
-        "Example of viral storytelling mechanics"
-      ]
-    },
-    "internet_culture": {
-      "significance": "Foundational creepypasta that helped define the genre",
-      "meme_status": "Recognized meme in horror and internet culture circles",
-      "community": "Active discussion and creation in creepypasta communities",
-      "artistic_expression": "Inspired fan art, derivative stories, and creative interpretations"
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "academic_interest": [
-      {
-        "field": "Digital Folklore",
-        "focus": "Study of how folklore adapts to digital spaces",
-        "researchers": "Various folklore and anthropology scholars"
-      },
-      {
-        "field": "Internet Culture Studies",
-        "focus": "Evolution of memes and viral content",
-        "researchers": "Media studies academics"
-      },
-      {
-        "field": "Horror Studies",
-        "focus": "Digital horror and new horror narratives",
-        "researchers": "Literature and cultural studies scholars"
-      }
-    ],
-    "analysis_areas": [
-      "Memetic transmission of folklore",
-      "Digital native storytelling",
-      "Collective authorship and creative evolution",
-      "Horror aesthetics in internet age",
-      "Viral content mechanics"
-    ]
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "theories": {
-    "analytical_frameworks": [
-      {
-        "name": "Memetic Horror",
-        "description": "Analysis of how horror spreads through viral sharing and adaptation",
-        "proponents": ["Internet culture researchers"],
-        "application": "Examines Smile Dog as self-replicating horror narrative"
-      },
-      {
-        "name": "Digital Folklore Evolution",
-        "description": "How traditional folklore adapts to internet platforms",
-        "proponents": ["Folklorists", "Anthropologists"],
-        "application": "Traces connection to chain letters and cursed object legends"
-      },
-      {
-        "name": "Participatory Horror",
-        "description": "Community-driven creation and evolution of horror narratives",
-        "proponents": ["Media studies scholars"],
-        "application": "Examines how communities shape and reshape the story"
-      }
-    ],
-    "cultural_analysis": [
-      {
-        "perspective": "Anxiety about digital media",
-        "description": "Story reflects fears about viral content and loss of control online"
-      },
-      {
-        "perspective": "Collective creativity",
-        "description": "Demonstrates internet's capacity for collaborative storytelling"
-      },
-      {
-        "perspective": "Modern folklore",
-        "description": "Updates traditional folklore formats for digital age"
-      }
-    ]
-  },
-
-  "sources": [
-    {
-      "id": "knowyourmeme-smiledog",
-      "type": "website",
-      "title": "Smile Dog / Smile.jpg",
-      "url": "https://knowyourmeme.com/memes/smile-dog-smilejpg",
-      "accessed": "2026-01-14",
-      "description": "Documentation of the meme's history and spread"
-    },
-    {
-      "id": "creepypasta-wiki",
-      "type": "wiki",
-      "title": "Smile Dog Entry",
-      "url": "https://creepypasta.fandom.com/wiki/Smile_Dog",
-      "accessed": "2026-01-14",
-      "description": "Community documentation of the creepypasta"
-    },
-    {
-      "id": "chess-2012",
-      "type": "article",
-      "title": "The Phenomenon of Creepypasta",
-      "authors": ["Shira Chess"],
-      "publication": "Digital Culture & Society",
-      "date": "2012"
-    }
-  ],
-
-  "disclaimers": {
-    "primary": "THIS IS DOCUMENTED FICTION. Smile Dog is a creative work of horror fiction (creepypasta) created for entertainment purposes. There is no actual cursed image, no paranormal phenomenon, and no supernatural effects from viewing any image.",
-    "educational_purpose": "This documentation exists to preserve internet culture history and analyze digital folklore as an academic and cultural artifact.",
-    "no_paranormal_claims": "The Wyrdness Project documents this as FICTION to distinguish it from phenomena where paranormal claims are made. This entry serves educational and archival purposes."
-  }
+  "sources": []
 }
