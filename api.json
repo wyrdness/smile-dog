@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/smile-dog",
     "maintainers": [
       {
@@ -16,111 +16,234 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "smile-dog",
     "name": "Smile Dog",
-    "aliases": [],
-    "category": "INTERNET_FOLKLORE",
-    "subcategory": "Cursed Media",
+    "aliases": [
+      { "name": "Smile.jpg", "region": "Original imageboard / creepypasta tradition" },
+      { "name": "Smile.dog", "region": "Common variant spelling" }
+    ],
+    "category": "URBAN_LEGEND",
+    "subcategory": "Creepypasta — cursed image",
     "tags": [
-      "folklore",
-      "mythology"
+      "creepypasta",
+      "internet-folklore",
+      "cursed-image",
+      "4chan",
+      "viral-horror",
+      "fictional"
     ],
     "status": "documented",
     "description": {
-      "summary": "According to the **fictional story**:",
-      "full": "According to the **fictional story**:"
+      "summary": "Smile Dog (also written Smile.jpg) is an image-based creepypasta about an allegedly cursed photograph of a husky-like dog with human-style teeth. The accompanying short story is most often attributed to Michael Lutz, who posted a canonical version to the Creepypasta Wiki in August 2010.",
+      "full": "Smile Dog is one of the foundational creepypasta legends of the late-2000s anglophone internet. The story centers on a digital image — known as Smile.jpg — that allegedly causes anyone who views it to suffer nightmares, sleep paralysis, and mental breakdown until they 'spread the word' by passing the image on to others. The framing story is told from the perspective of a writer, 'Mr. L', who interviews victims of the image. The image and its associated lore appear to have first surfaced on 4chan's /x/ (paranormal) board around 2008. The most-cited canonical text was uploaded to the Creepypasta Wiki on August 27, 2010 by Michael Lutz; this version of the story has been the basis for most subsequent retellings. Like Slender Man and other early creepypasta, Smile Dog is studied as a case of digital folklore (Trevor J. Blank, Lynne S. McNeill) and is broadly understood as fiction; no version of the image has ever been independently verified to cause harm."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Internet — emerged on imageboards (4chan /x/) circa 2008, codified on Creepypasta Wiki in 2010.",
+      "meaning": "Refers to the unsettling smile (with apparent human teeth) of the dog in the image.",
+      "first_use": "First image circulation on 4chan, c. 2008; first canonical text on Creepypasta Wiki, August 27, 2010."
     }
   },
+
   "classification": {
     "taxonomy": {
-      "category": "INTERNET_FOLKLORE",
-      "type": "Cursed Media",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "URBAN_LEGEND",
+      "type": "Internet-native folklore",
+      "subtype": "Cursed-image creepypasta"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "slenderman", "name": "Slender Man", "relationship": "similar", "description": "Slightly later (2009) creepypasta entity from the same cultural moment" },
+      { "id": "creepypasta", "name": "Creepypasta", "relationship": "superset", "description": "Genre within which Smile Dog originates" },
+      { "id": "the-rake", "name": "The Rake", "relationship": "similar", "description": "Another foundational early creepypasta entity" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "coloration": ["husky-style grey-and-white fur (in image)", "human-like white teeth"],
+      "features": [
+        { "feature": "Husky-like canine form", "description": "The image depicts a dog resembling a husky", "frequency": "always" },
+        { "feature": "Human-style teeth", "description": "An open-mouth grin showing what appear to be human-like teeth — the visual hook of the image", "frequency": "always" },
+        { "feature": "Hand visible in background", "description": "Most circulating versions of the image include a partially visible human hand", "frequency": "common" }
+      ],
+      "morphology": "A static fictional image; no behaviour outside narrative attribution."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Curse via viewing", "description": "In the fiction, viewing the image is said to cause nightmares, sleep paralysis, and ultimately mental breakdown unless the viewer 'spreads the word' by sharing it with others", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Dream intrusion", "description": "Smile Dog is said to appear in victims' dreams demanding they 'spread the word'", "frequency": "always", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "variable",
+      "disposition": "aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": ["The internet (in the fiction)"],
+      "diet": "Not applicable",
+      "patterns": [
+        "Spreads from victim to victim through the act of sharing the image",
+        "Frames itself as a chain-letter / contagion narrative"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "An internet-native fiction: distribution is anywhere the anglophone internet reaches. The originating community is North American imageboard culture (4chan) and the wider Creepypasta Wiki community.",
+      "continents": ["North America", "Europe", "Australia", "Asia", "South America"],
+      "countries": ["United States", "Worldwide via internet"],
+      "regions": ["Internet (4chan /x/, Creepypasta Wiki, YouTube)"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "4chan /x/ (origin)",
+        "location": {
+          "description": "4chan paranormal board (/x/)",
+          "country": "United States",
+          "region": "Internet"
+        },
+        "peak_period": "2008",
+        "notes": "Apparent first circulation site of the Smile.jpg image and associated story."
+      },
+      {
+        "name": "Creepypasta Wiki",
+        "location": {
+          "description": "Creepypasta Wiki (Fandom)",
+          "country": "United States",
+          "region": "Internet"
+        },
+        "peak_period": "2010-08-27 onwards",
+        "notes": "Canonical version of the Smile Dog story uploaded by Michael Lutz on 27 August 2010."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "2008",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Reported initial circulation on 4chan /x/ (per Know Your Meme and Wikipedia)"
+      },
+      "peak_activity_periods": [
+        { "period": "2008–2010", "description": "Initial imageboard circulation" },
+        { "period": "2010-08-27", "description": "Canonical Lutz text on Creepypasta Wiki" },
+        { "period": "2014-present", "description": "Continued YouTube and TikTok retellings" }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Late-2000s imageboard culture, particularly 4chan's /x/ (paranormal) board, and the early Creepypasta Wiki community.",
+      "earliest_accounts": "Story circulation on 4chan /x/ around 2008; canonical text by Michael Lutz on Creepypasta Wiki, August 27, 2010.",
+      "folklore_connections": "Part of the early-2010s wave of creepypasta that includes Slender Man, The Rake, and Jeff the Killer."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "2008-01-01", "event": "Smile.jpg image and associated story begin circulating on 4chan's /x/ board", "significance": "Initial spread", "source": "Know Your Meme; Wikipedia, 'Smile Dog'" },
+      { "date": "2009-01-15", "event": "Earliest documented Urban Dictionary entry for 'Smile.jpg' is created", "significance": "Marker of mainstream lexical recognition", "source": "Know Your Meme entry, citing Urban Dictionary" },
+      { "date": "2010-08-27", "event": "Michael Lutz uploads the canonical 'Smile Dog' creepypasta to the Creepypasta Wiki", "significance": "Anchors the canonical text", "source": "Creepypasta Wiki revision history" }
+    ],
+    "modern_era": "Smile Dog remains a recognised reference point in creepypasta history, regularly cited alongside Slender Man and The Rake in writings on early digital folklore. The image continues to be retold on YouTube, TikTok, and Reddit, and has inspired fan art and a number of unofficial games and animations."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
       "verified": 0,
       "disputed": 0,
-      "debunked": 0
+      "debunked": 0,
+      "date_range": { "earliest": "2008 (online circulation)", "latest": "present" }
     },
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
-    "photographic": [],
+    "photographic": [
+      {
+        "id": "smile-dog-evidence-image",
+        "type": "digital image",
+        "name": "Smile.jpg",
+        "date": "2008",
+        "description": "Original Smile.jpg image of a husky-like dog with apparent human teeth; circulated widely online from 2008.",
+        "status": "unverified",
+        "analysis": "Authorship of the image itself is unknown. Treated as fiction; no claim of supernatural effect has been substantiated.",
+        "source": "Know Your Meme; Wikipedia, 'Smile Dog'"
+      }
+    ],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "smile-dog-evidence-lutz-2010",
+        "type": "creepypasta text",
+        "name": "Michael Lutz, 'Smile Dog' (2010)",
+        "date": "2010-08-27",
+        "description": "Canonical Creepypasta Wiki version of the Smile Dog story.",
+        "status": "verified",
+        "analysis": "Acknowledged fiction; widely treated as the definitive textual version of the legend.",
+        "source": "Creepypasta Wiki revision history"
+      }
+    ]
   },
+
   "theories": {
     "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "scientific": [
+      {
+        "name": "Digital folklore",
+        "description": "Folklorists treat Smile Dog as an early example of internet-native folklore: anonymously authored, collectively elaborated, image-driven, and self-replicating in the manner of a chain letter.",
+        "proponents": ["Trevor J. Blank", "Lynne S. McNeill"],
+        "evidence_cited": ["Pattern of imageboard origin and wiki canonisation", "Self-replicating 'spread the word' mechanic embedded in the fiction"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Acknowledged fiction",
+        "description": "Smile Dog is an explicitly fictional creepypasta. No reliable account of harm caused by viewing the image has ever been documented.",
+        "proponents": ["Michael Lutz (acknowledged author of the canonical text)", "Standard reference treatment"],
+        "evidence_cited": ["Public revision history on Creepypasta Wiki", "Coverage as fiction by Know Your Meme and Wikipedia"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Anglophone internet creepypasta tradition",
+        "4chan / imageboard culture"
+      ],
+      "stories": [
+        "Smile.jpg image circulation (2008)",
+        "Michael Lutz, 'Smile Dog' (Creepypasta Wiki, 2010)"
+      ],
+      "beliefs": "Universally treated as fiction; the in-fiction 'curse' is part of the genre's chain-letter logic."
     },
     "popular_culture": {
-      "literature": [],
+      "literature": [
+        "Michael Lutz, 'Smile Dog' (Creepypasta Wiki, 2010)"
+      ],
       "film_tv": [],
       "games": [],
-      "other": []
+      "music": [],
+      "other": [
+        "Frequent inclusion in 'top creepypasta' lists",
+        "Subject of YouTube readings and animations"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Michael Lutz", "affiliation": "Independent (writer)", "contribution": "Author of the canonical 2010 Creepypasta Wiki version of the Smile Dog story", "period": "2010" }
+    ],
+    "organizations": [
+      { "name": "Know Your Meme", "url": "https://knowyourmeme.com/memes/smilejpg", "focus": "Documentation of internet meme and creepypasta history, including Smile.jpg" }
+    ],
+    "ongoing_studies": "Studied within digital-folklore scholarship as a paradigm example of cursed-image creepypasta."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-smile-dog", "type": "website", "title": "Smile Dog", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Smile_Dog", "accessed": "2026-05-07" },
+    { "id": "kym-smile-jpg", "type": "website", "title": "Smile.jpg", "publication": "Know Your Meme", "url": "https://knowyourmeme.com/memes/smilejpg", "accessed": "2026-05-07" }
+  ]
 }
